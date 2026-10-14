@@ -1,0 +1,10 @@
+schema: 11
+sdd:
+  paths:
+    product: product.md
+    interfaces: interfaces/
+    domains: domains/
+    entities: entities/
+    capabilities: capabilities/
+    businessRules: business-rules/
+    journeys: journeys/
